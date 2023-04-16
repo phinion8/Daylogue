@@ -1,0 +1,1 @@
+C:\Users\priya\AndroidStudioProjects\DailyJournal\buildSrc\build\classes\kotlin\main\ProjectConfig.class

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auth_sub_title">Please sign in to continue</string>
+</resources>

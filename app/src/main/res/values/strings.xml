@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Daily Journal</string>
+    <string name="auth_title">Welcome Back</string>
+    <string name="auth_sub_title">Please sign in to continue</string>
+</resources>

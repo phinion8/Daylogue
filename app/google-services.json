@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "295146225905",
+    "project_id": "daily-journal-381416",
+    "storage_bucket": "daily-journal-381416.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295146225905:android:7e03e58c4b1e3bb52ea950",
+        "android_client_info": {
+          "package_name": "com.phinion.dailyjournal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295146225905-ulnqfokmgslohbdqlkdtfvgrj3ocurj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhMaJgHNyp_wBmPN5cgLpsKn2MA52EAuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295146225905-n214du99bq3fl53usvuvihdrolkge891.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
